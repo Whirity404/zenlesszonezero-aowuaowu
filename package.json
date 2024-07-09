@@ -1,0 +1,15 @@
+{
+  "name": "安比",
+  "version": "1.0.0",
+  "description": "嗷呜~我被空洞侵蚀，变成怪物了，嗷呜嗷呜~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'See `npm run server`'",
+    "server": "live-server ./wwwroot --port=8181 --host=localhost"
+  },
+  "keywords": [
+    "绝区零安比"
+  ],
+  "author": "Whirity404",
+  "license": "Apache-2.0"
+}
